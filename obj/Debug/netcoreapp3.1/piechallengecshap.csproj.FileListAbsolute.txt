@@ -1,0 +1,12 @@
+/Users/codenationstudent/Desktop/piechallengecshap/bin/Debug/netcoreapp3.1/piechallengecshap.deps.json
+/Users/codenationstudent/Desktop/piechallengecshap/bin/Debug/netcoreapp3.1/piechallengecshap.runtimeconfig.json
+/Users/codenationstudent/Desktop/piechallengecshap/bin/Debug/netcoreapp3.1/piechallengecshap.runtimeconfig.dev.json
+/Users/codenationstudent/Desktop/piechallengecshap/bin/Debug/netcoreapp3.1/piechallengecshap.dll
+/Users/codenationstudent/Desktop/piechallengecshap/bin/Debug/netcoreapp3.1/piechallengecshap.pdb
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.dll
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.pdb
+/Users/codenationstudent/Desktop/piechallengecshap/obj/Debug/netcoreapp3.1/piechallengecshap.genruntimeconfig.cache
