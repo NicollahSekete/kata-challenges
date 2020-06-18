@@ -2,19 +2,6 @@
 
 namespace piechallengecshap
 {
-    class PieTime
-    {
-       public void Pie(int pieEaters,int slicesEaten)
-       {
-           var workOut = pieEaters% slicesEaten;
-           if (workOut==0)
-           Console.WriteLine("enough for everyone");
-           else
-           Console.WriteLine("not enough slices sorry");
-                   
-             
-       }
-    }
         
     class Program
     {
@@ -26,6 +13,14 @@ namespace piechallengecshap
 
                Palindome findPalindome = new Palindome();
                findPalindome.palin();
+
+               pieTime findPie = new pieTime();
+               findPie.pieUp(4,6);
+
+               stringSpace findSpace = new stringSpace();
+               findSpace.stringSpaced();
+
+            
         }
            
             
